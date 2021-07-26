@@ -1,0 +1,23 @@
+.coolTitle {
+    text-align:center;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: 8px;
+    color: tomato;
+    text-shadow:
+    -2px -2px 0 firebrick,
+    -30px 20px 40px dimgray;
+}
+
+.done {
+    text-decoration: line-through;
+}
+p{
+   font-size:30px; 
+}
+li{
+  font-size: 20px;  
+}
+hr{
+ visibility: hidden;
+}
